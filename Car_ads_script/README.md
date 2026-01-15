@@ -36,8 +36,18 @@ Install dependencies: It is recommended to use a virtual environment.
 ```bash
 pip install pandas requests beautifulsoup4 plotly streamlit matplotlib jupyter
 ```
+## requirements - 
+```text
 
-
+pandas
+requests
+beautifulsoup4
+plotly
+streamlit
+matplotlib
+jupyter / cursor or any other platform
+numpy
+```
 ## 🚀 Usage
 1. Scrape the Data
 First, you need to collect fresh data. The scraper is configured to search for a specific car model (defined by Manufacturer and Model ID).
