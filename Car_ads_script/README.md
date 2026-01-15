@@ -13,6 +13,8 @@ A comprehensive data engineering and analysis project that scrapes used car list
 * **Interactive Dashboard**: Built with **Streamlit** and **Plotly** for exploring the data dynamically.
 * **Static Report**: Generates a standalone HTML report (`dashboard.html`).
 
+### the manufacture & model can be fetched directly from the URL , as they use url parameters 
+
 ## 📂 Project Structure
 
 ```text
